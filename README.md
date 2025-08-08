@@ -1,6 +1,6 @@
 # Moonlink.js Documentation Project
 
-This repository contains the source code and content for the official Moonlink.js documentation website. Our goal is to provide comprehensive, up-to-date, and translated documentation to support developers using Moonlink.js.
+This repository contains the source code and content for the official Moonlink.js documentation website. This documentation project is built using **shadcn-docs-nuxt**, providing a modern and efficient way to present our content. Our goal is to provide comprehensive, up-to-date, and translated documentation to support developers using the **Moonlink.js library**.
 
 ## Visitor Demographics
 
@@ -93,7 +93,7 @@ We welcome contributions to improve and expand our documentation! If you'd like 
 
 For now, you can:
 
-*   Open an issue on our [Docs](https://github.com/Ecliptia/docs/issues) to report documentation errors or suggest improvements.
-*   Submit a pull request to contribute directly to the documentation files.
+*   Open an issue on our [GitHub repository](https://github.com/Ecliptia/docs/issues) to report documentation errors or suggest improvements.
+*   Submit a pull request to contribute directly to the documentation files in our [GitHub repository](https://github.com/Ecliptia/docs/pulls).
 
 Thank you for helping us make Moonlink.js accessible to more developers worldwide!

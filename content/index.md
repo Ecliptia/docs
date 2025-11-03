@@ -62,7 +62,7 @@ A blazing-fast, alternative built entirely in Node.js. Lightweight, modular, and
 #right
 <p align="center">
   <img
-    src="https://github.com/1Lucas1apk/lab/blob/master/mwc2h6q%20-%20Imgur.png?raw=true"
+    src="https://moonlink.js.org/nodelink_banner.png"
     alt="NodeLink Banner"
     width="400"
     style="border-radius: 12px;"

@@ -62,7 +62,7 @@ Super rápido, totalmente feito em Node.js. Leve, modular e otimizado pra áudio
 #right
 <p align="center">
   <img
-    src="https://github.com/1Lucas1apk/lab/blob/master/mwc2h6q%20-%20Imgur.png?raw=true"
+    src="https://moonlink.js.org/nodelink_banner.png"
     alt="Banner NodeLink"
     width="400"
     style="border-radius: 12px;"

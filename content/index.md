@@ -38,6 +38,38 @@ Imagine the Perfect Music Bot...
 **Moonlink.js (Reimagined Version)** — A sonic adventure where your imagination is the only limit. Designed to be powerful, flexible, and intuitive, Moonlink.js is the ideal tool for creating unforgettable music bots on Discord.
 ::
 
+::hero-alt
+---
+announcement:
+  title: 'NodeLink'
+  icon: 'lucide:rocket'
+  to: https://github.com/PerformanC/NodeLink
+actions:
+  - name: Learn More
+    to: https://github.com/PerformanC/NodeLink
+  - name: GitHub
+    variant: ghost
+    to: https://github.com/PerformanC/NodeLink
+mobileRight: 'top'
+---
+
+#title
+NodeLink — A alternative Lavalink
+
+#description
+A blazing-fast, alternative built entirely in Node.js. Lightweight, modular, and optimized for real-time audio performance. ⚡ Simpler. Faster. Node-Powered.
+
+#right
+<p align="center">
+  <img
+    src="https://github.com/1Lucas1apk/lab/blob/master/mwc2h6q%20-%20Imgur.png?raw=true"
+    alt="NodeLink Banner"
+    width="400"
+    style="border-radius: 12px;"
+  />
+</p>
+::  
+
 # Features
 > - `Queue Management`: Queue is integrated with a local database, to retrieve data if necessary.
 > - `Audio Filters`: Apply various audio filters.

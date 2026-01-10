@@ -9,11 +9,7 @@ export default defineNuxtConfig({
         code: 'en',
         name: 'English',
         language: 'en-US',
-      }, {
-        code: 'ptbr',
-        name: 'Português (Brasil)',
-        language: 'ptbr'
-      }
+      },
     ],
   },
   compatibilityDate: '2024-07-06',

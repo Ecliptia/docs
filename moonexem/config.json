@@ -1,0 +1,10 @@
+{
+  "token": "ADD YOUR BOT TOKEN HERE!",
+  "prefix": "!",
+  "lavalink": {
+    "host": "0.0.0.0",
+    "port": 3000,
+    "password": "0425",
+    "secure": false
+  }
+}

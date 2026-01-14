@@ -92,7 +92,7 @@ announcement:
   icon: 'lucide:pie-chart'
 actions:
   - name: 
-    to: https://discord.gg/q8HzGuHuDY
+    to: https://discord.gg/bVz6ppZ3SP
     leftIcon: logos:discord
     variant: outline
 ---
@@ -140,7 +140,7 @@ A showcase for our amazing community
   avatar: https://s3.galaxybot.app/media/brand/GalaxyBot.png
   center: false
   name: GalaxyBot
-  title: "Used by over 48k guilds; Team: galaxybot.app"
+  title: "Used by over 90k guilds; Team: galaxybot.app"
   links:
     - icon: lucide:bot
       to: https://galaxybot.app/go/invite
